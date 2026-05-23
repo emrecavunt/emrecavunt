@@ -4,7 +4,7 @@
 
 I design and build platform, and AI systems that help engineering teams ship reliable software faster.
 
-My work focuses on **platform engineering, Kubernetes infrastructure, identity, observability, developer experience and AI systems ** that move beyond demos into production.
+My work focuses on **platform engineering, Kubernetes infrastructure, identity, observability, developer experience and AI systems** that move beyond demos into production.
 
 ---
 
