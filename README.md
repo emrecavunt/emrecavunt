@@ -1,10 +1,10 @@
 # Hi, I'm Emre 👋
 
-**Lead Platform Engineer** based in London.
+**Principal Engineer** based in London.
 
-I design and build cloud-native platforms that help engineering teams ship reliable systems faster.
+I design and build platform, and AI systems that help engineering teams ship reliable software faster.
 
-My work focuses on **platform engineering, Kubernetes infrastructure, identity, observability, and developer experience.**
+My work focuses on **platform engineering, Kubernetes infrastructure, identity, observability, developer experience and AI systems ** that move beyond demos into production.
 
 ---
 
@@ -13,8 +13,10 @@ My work focuses on **platform engineering, Kubernetes infrastructure, identity, 
 - Multi-tenant Kubernetes platforms
 - Platform APIs and developer infrastructure
 - Secure workload identity and authentication
-- Observability systems (metrics, logs, traces)
+- Observability systems: metrics, logs, traces
 - CI/CD platforms and developer tooling
+- Agentic AI workflows and AI-enabled engineering systems
+- AI adoption patterns, guardrails, and production architecture
 
 ---
 
@@ -50,12 +52,14 @@ My work focuses on **platform engineering, Kubernetes infrastructure, identity, 
 
 ## Writing
 
-I write about platform engineering and distributed systems at [emrecavunt.com/blog](https://emrecavunt.com/blog).
+I write about platform engineering, identity, cloud-native systems, and applied AI at [emrecavunt.com/blog](https://emrecavunt.com/blog).
+
 
 Recent articles:
-- Authentication 101: A Complete Guide to Modern Identity
-- Zero Trust for Cloud Native Platforms
-- Kubernetes Platform Design Patterns
+
+- [Authentication 101: A Complete Guide to Modern Identity Methods](https://emrecavunt.com/blog/authentication-101)
+- [Google's GAIL Certification: Useful Strategy, Thin Engineering](https://emrecavunt.com/blog/generative-ai-leadership-certificate-study-notes)
+- [7 Books That Shaped How I Build Platforms Developers Actually Use](https://emrecavunt.com/blog/building-platforms-that-developers-actually-use)
 
 ---
 
@@ -63,4 +67,4 @@ Recent articles:
 
 [![Website](https://img.shields.io/badge/Website-emrecavunt.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://emrecavunt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emre--cavunt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emre-cavunt)
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-emrecavunt-000000?style=flat&logo=x&logoColor=white)](https://x.com/emrecavunt)
+[![X](https://img.shields.io/badge/Twitter%20%2F%20X-emrecavunt-000000?style=flat&logo=x&logoColor=white)](https://x.com/emrecavunt)
