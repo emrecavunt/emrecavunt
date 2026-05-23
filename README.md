@@ -75,4 +75,4 @@ Recent articles:
 
 [![Website](https://img.shields.io/badge/Website-emrecavunt.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://emrecavunt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emre--cavunt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emre-cavunt)
-[![X](https://img.shields.io/badge/Twitter%20%2F%20X-emrecavunt-000000?style=flat&logo=x&logoColor=white)](https://x.com/emrecavunt)
+[![X](https://img.shields.io/badge/emrecavunt-000000?style=flat&logo=x&logoColor=white)](https://x.com/emrecavunt)
